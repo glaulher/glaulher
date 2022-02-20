@@ -22,9 +22,7 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 </span>
 </p>
 
-
-
-
+</br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -52,7 +50,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 
 
- </br>
+ 
 
 
 ![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight)
