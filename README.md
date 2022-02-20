@@ -49,8 +49,4 @@ const anmol = {
 ---
 <!--START_SECTION:waka-->
 
-
- 
-
-
 ![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight)
