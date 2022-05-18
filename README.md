@@ -70,6 +70,7 @@ const glaulher = {
   <img src=https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white /> 
   <img src=https://img.shields.io/badge/Void-Linux-ABC2AB?style=for-the-badge&logo=void&logoColor=white />
   <img src=https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white />
+  <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) />
 </div>
   
   
