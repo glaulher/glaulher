@@ -49,15 +49,13 @@ const glaulher = {
 ---
 <!--START_SECTION:waka-->
 
-<div>
-  <div align='center'>
- 
+<div align='center'>
+    <h3>Languages</h3>
     <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />
     <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
     <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
     <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white />
     <img src=https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white />
-   
   </div>
   
   <br>
