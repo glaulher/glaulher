@@ -49,5 +49,13 @@ const glaulher = {
 ---
 <!--START_SECTION:waka-->
 
+ <div align='center'>
+   
+   
+    <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+    <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />   
+    <img src=https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white />
+  </div>
+
 ![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaulher&hide=html&layout=compact&theme=tokyonight)
