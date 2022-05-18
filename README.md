@@ -62,6 +62,7 @@ const glaulher = {
    
 </div>
 
+<div align='center'> 
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
   <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />  
   <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white />
@@ -69,5 +70,10 @@ const glaulher = {
   <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white />
   <img src=https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white />  
   <img src=https://img.shields.io/badge/Debian_Linux-557C94?style=for-the-badge&logo=debian-linux&logoColor=white />
+</div>
+  
+  
+
+ 
 
 
