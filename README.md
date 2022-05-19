@@ -5,7 +5,7 @@
 </em></p>
 
 --- 
-
+<div>
 Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 
 
@@ -21,6 +21,8 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
   <a href="https://terminaldopenguin.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </span> 
 </p>
+ 
+ </div>
 
 </br>
 
