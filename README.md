@@ -65,7 +65,7 @@ const glaulher = {
     <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />  
 </div>
   
- 
+ <br>
 <div align='center'>             
  
 ![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight)
