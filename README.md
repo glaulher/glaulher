@@ -1,6 +1,6 @@
  ### Hello World! 🖖, I'm Glaulher Medeiros! 
 
-<p>
+<p style="text-align:right">
 <p><em>Graduate in Information Systems at <a href="https://estacio.br/estude-na-estacio/nossa-graduacao">Estácio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
