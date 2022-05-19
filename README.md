@@ -4,7 +4,7 @@
 <p><em>Graduate in Information Systems at <a href="https://estacio.br/estude-na-estacio/nossa-graduacao">Estácio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
----
+--- <img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
 
 Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 
@@ -19,11 +19,7 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 
 <span style="inline-block;">
   <a href="https://terminaldopenguin.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white"></a>
-</span>
- 
- <span style="inline-block;">
-<img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
-</span>
+</span> 
 </p>
 
 </br>
