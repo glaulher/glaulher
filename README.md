@@ -68,7 +68,7 @@ const glaulher = {
  <br>
 <div align='center'>             
  
-<!-- ![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight) -->
+ ![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight) 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaulher&hide=html&layout=compact&theme=tokyonight) -->
    
 </div>
