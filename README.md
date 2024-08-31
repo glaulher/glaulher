@@ -34,7 +34,6 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
   </a>
 </span> 
 
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="80" align="middle"> <!-- Adicionando o GIF próximo ao badge do blog -->
 
 </p>
 
