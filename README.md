@@ -32,8 +32,9 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
   <a href="https://terminaldopenguin.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white">
   </a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <!-- Adicionando o GIF aqui -->
 </span> 
+
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="80" align="middle"> <!-- Adicionando o GIF próximo ao badge do blog -->
 
 </p>
 
@@ -41,7 +42,6 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
  </div>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 
 ```javascript
 const glaulher = {
