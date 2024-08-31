@@ -1,34 +1,46 @@
 ### Hello World! 🖖, I'm Glaulher Medeiros! 
 
 <p>
-  <em>
-    Graduate in Information Systems at 
-    <a href="https://estacio.br/estude-na-estacio/nossa-graduacao">Estácio</a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </em>
+ <em>
+   Graduate in Information Systems at 
+   <a href="https://estacio.br/estude-na-estacio/nossa-graduacao">
+     Estácio
+   </a>
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ </em>
 </p>
 
----
+--- 
+   <div>
+Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 
-<p style="display: flex; align-items: center;">
-  Technology enthusiast, Debian, Void Linux, mobile development, backend, etc.
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100" height="100" style="margin-left: 10px;">
-</p>
+<img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
 
 <p align="left">
+<span style="inline-block;">
   <a href="https://www.linkedin.com/in/glaulher-medeiros-03799967/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
+</span>
+<span style="inline-block;">
   <a href="https://glaulher.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/github.io-gray?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/github.io-gray?style=for-the-badge&logo=github&logoColor=white" >
   </a>
+</span>
+
+<span style="inline-block;">
   <a href="https://terminaldopenguin.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white">
   </a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <!-- Adicionando o GIF aqui -->
+</span> 
+
 </p>
 
+</br>
+ </div>
+ 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 
 
 ```javascript
