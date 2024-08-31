@@ -17,7 +17,7 @@
 Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 
 <img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
-</br>
+
 
 <p align="left">
 <span style="inline-block;">
@@ -38,7 +38,7 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 
 </br>
  </div>
- 
+</br> 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
