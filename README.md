@@ -24,10 +24,11 @@ Technology enthusiast, Debian, Void Linux, mobile development, backend, etc.
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
+<div style="position: relative;">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230" style="position: absolute; top: 0; right: 0;">
+</div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 ```javascript
 const glaulher = {
     pronouns: "He" | "Him",
