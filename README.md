@@ -58,4 +58,29 @@ const glaulher = {
 };
 
 ```
-<!--START_SECTION:waka--> <div align='center'> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> </div> <br> <div align='center'> ![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaulher&hide=html&layout=compact&theme=tokyonight) </div> <div align='center'> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" /> <img src="https://img.shields.io/badge/Void-Linux-ABC2AB?style=for-the-badge&logo=void&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> </div> 
+---
+<!--START_SECTION:waka-->
+<div align='center'> 
+    <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+    <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />  
+</div>
+  
+ <br>
+<div align='center'>             
+
+![Glaulher's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaulher&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaulher&hide=html&layout=compact&theme=tokyonight) 
+
+</div>
+
+<div align='center'>   
+  <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />  
+  <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white />
+  <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white />
+  <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white />
+  <img src=https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white /> 
+  <img src=https://img.shields.io/badge/Void-Linux-ABC2AB?style=for-the-badge&logo=void&logoColor=white />
+  <img src=https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white />
+  <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
+</div>
+  
