@@ -26,14 +26,14 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 <span style="inline-block;">
   <a href="https://glaulher.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-gray?style=for-the-badge&logo=github&logoColor=white" ></a>
 </span>
-</div>
+
 
 <span style="inline-block;">
   <a href="https://terminaldopenguin.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </span> 
 
 </p>
- 
+ </div>
 
 
 </br>
