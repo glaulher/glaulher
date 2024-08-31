@@ -12,7 +12,7 @@
 
 <p style="display: flex; align-items: center;">
   Technology enthusiast, Debian, Void Linux, mobile development, backend, etc.
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="50" style="margin-left: 10px;">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100" height="100" style="margin-left: 10px;">
 </p>
 
 <p align="left">
