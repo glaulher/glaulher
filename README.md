@@ -25,9 +25,11 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 </p>
  
 </br>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
+
 const glaulher = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript"],   
@@ -44,8 +46,10 @@ const glaulher = {
     currentFocus: "Gain knowledge on the javascript stack and contribute to the community",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+
 ```
 ---
+
 <!--START_SECTION:waka-->
 <div align='center'> 
     <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
@@ -70,5 +74,3 @@ const glaulher = {
   <img src=https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white />
   <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
 </div>
-  
-  
