@@ -39,21 +39,28 @@ Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
 
 ```javascript
 const glaulher = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript"],   
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        mobileApp: {
-            crossPlatform: ["React-native"]
-        },
-        devOps: "Docker🐳",
-        databases: ["postgres", "sqlite"],      
-    },    
-    currentFocus: "Gain knowledge on the javascript stack and contribute to the community",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "Python", "Java (beginner)", "Markdown"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+    },
+    backEnd: {
+      js: ["Node.js"],
+      python: ["PySide6"],
+      java: ["Springboot"]
+    },
+    mobileApp: {
+      crossPlatform: ["React Native"],
+    },
+    desktopApp: ["PySide6"],
+    devOps: ["Docker🐳", "Firebase", "Linux (Debian, Fedora, Ubuntu, Void Linux)"],
+    databases: ["SQLite", "PostgreSQL (basic)"],
+    dataTools: ["Power BI", "Excel", "Google Sheets"],
+    editors: ["Neovim 💻", "VS Code"],
+  },
+  currentFocus: "Continuously improving my skills and contributing to open source projects",
+  funFact: "There are two ways to write error-free programs; only the third one works",
 ```
 
 
