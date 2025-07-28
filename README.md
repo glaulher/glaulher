@@ -6,36 +6,44 @@
    <a href="https://estacio.br/estude-na-estacio/nossa-graduacao">
      Estácio
    </a>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ 
  </em>
 </p>
-<img align="right"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
+
 
 
 --- 
    
-Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
+<div style="display: flex; align-items: stretch; justify-content: space-between;">
+ 
+  <div  style="display: flex; flex-direction: column;  width: 100%;">
+  <p >
+  Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
+  </p>
+  <div style="display: flex; gap: 8px; flex-wrap: nowrap;margin-top: auto;">
+  <a href="https://www.linkedin.com/in/glaulher-medeiros-03799967/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://glaulher.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/github.io-gray?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://terminaldopenguin.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
+</div>
+  
+  </div>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="160" />
+</div>
 
 
-<p align="left">
-<span style="inline-block;">
-  <a href="https://www.linkedin.com/in/glaulher-medeiros-03799967/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</span>
-<span style="inline-block;">
-  <a href="https://glaulher.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-gray?style=for-the-badge&logo=github&logoColor=white" ></a>
-</span>
 
-
-<span style="inline-block;">
-  <a href="https://terminaldopenguin.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white"></a>
-</span> 
-</p>
  
 
 
-</br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  
 
 ```javascript
 const glaulher = {
@@ -70,6 +78,8 @@ const glaulher = {
 <div align='center'> 
     <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
     <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />  
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
   
  <br>
@@ -89,6 +99,8 @@ const glaulher = {
   <img src=https://img.shields.io/badge/Void-Linux-ABC2AB?style=for-the-badge&logo=void&logoColor=white />
   <img src=https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white />
   <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
+ <img src=https://img.shields.io/badge/Power%20By-8A2BE2?style=for-the-badge&logo=void&logoColor=white />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </div>
   
   
