@@ -14,11 +14,13 @@
 
 --- 
    
-<table>
+<table style="border: none;">
   <tr>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top;border: none;">
       <p>
+       <small>
         Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
+       </small>
       </p>
       <p>
         <a href="https://www.linkedin.com/in/glaulher-medeiros-03799967/" target="_blank">
@@ -32,7 +34,7 @@
         </a>
       </p>
     </td>
-    <td style="text-align: center;">
+    <td style="text-align: center;border: none;">
       <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="160" />
     </td>
   </tr>
