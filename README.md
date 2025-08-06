@@ -14,32 +14,17 @@
 
 --- 
    
-<table style="border: none;">
-  <tr>
-    <td style="vertical-align: top;border: none;">
-      <p>
-       <small>
-        Technology enthusiast, Debian, Void linux, mobile development, backend, etc.
-       </small>
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/glaulher-medeiros-03799967/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-        <a href="https://glaulher.github.io/" target="_blank">
-          <img src="https://img.shields.io/badge/github.io-gray?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://terminaldopenguin.blogspot.com/" target="_blank">
-          <img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white">
-        </a>
-      </p>
-    </td>
-    <td style="text-align: center;border: none;">
-      <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="160" />
-    </td>
-  </tr>
-</table>
-
+| <small>Technology enthusiast, Debian, Void linux, mobile development, backend, etc.</small><br><br>
+<a href="https://www.linkedin.com/in/glaulher-medeiros-03799967/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://glaulher.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/github.io-gray?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://terminaldopenguin.blogspot.com/" target="_blank">
+  <img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=blogger&logoColor=white">
+</a> | <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="160"> |
+|---|---|
  
 
 
